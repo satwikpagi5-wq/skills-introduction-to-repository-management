@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @satwikpagi5-wq
+/src/backend/database.py      @satwikpagi5-wq
+/src/backend/routers/auth.py  @satwikpagi5-wq
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @satwikpagi5-wq
